@@ -1,4 +1,4 @@
-package com.jmyc.AgendaDocente;
+package com.jmyc.agendadocente;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
